@@ -8,9 +8,9 @@ namespace CzasPracyPWeg.Classes
     {
         public List<PracaPracownika> Convertion()
         {
-            string filePath = AppDomain.CurrentDomain.BaseDirectory;
+            string filePath = @"../../Data/Praca.csv";
             List<PracaPracownika> pr = new List<PracaPracownika>();
-            Rows = csvContext.Read<CsvItemDataRow>(@"../../Data/Praca.csv", csvDesc);
+            Rows = csvContext.Read<CsvItemDataRow>(filePath, csvDesc);
             int initialRow = 1;
             int headerRow = 2;
             int cr = initialRow;
