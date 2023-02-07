@@ -42,8 +42,8 @@ namespace CzasPracyPWeg
 
         private static void UploadXML()
         {
-            
             FtpClient client = new FtpClient("127.0.0.1", "praca", "praca", 21);
+            //FtpClient client = new FtpClient("testpio.x10.mx", "testpiox", "Qwerty123!@#", 21);
 
             client.Connect();
             client.UploadFile("../../Data/WynikPracy.xml", "WynikPracy.xml", FtpRemoteExists.Overwrite, true);
