@@ -42,8 +42,30 @@ namespace CzasPracyPWeg.Classes
                     {
                         if (header[i] != null)
                         {
-                            Zmiana zm = Zmiany.Find(x => x.NumerZmiany == row[i].Value);
                             DateTime dt = DateTime.Parse(header[i]);
+                            string nzm = row[i].Value;
+                            //Zmiana zm = Zmiany.Find(x => x.NumerZmiany == row[i].Value)
+                            while (!Zmiany.Exists(x => x.NumerZmiany == nzm))
+                            {
+                                Console.WriteLine();
+                                Console.WriteLine($"Dla pracownika o kodzie {praca.KodPracownika} " +
+                                    $"podany format zmiany {nzm} na dzień {dt} jest nieprawidłowy.");
+                                Console.WriteLine();
+                                Console.WriteLine("Podaj prawidłowy format zmiany");
+                                Console.WriteLine();
+                                foreach(var z in Zmiany)
+                                {
+                                    Console.WriteLine($"{z.NumerZmiany}:");
+                                    if (z.czyPraca) Console.WriteLine($"Dzień pracy od godz. {z.OdGodziny}, przez {z.Czas}");
+                                    else Console.WriteLine($"Dzień wolny");                                    
+                                }
+
+                                nzm = Console.ReadLine();
+                            }
+
+                            Zmiana zm = Zmiany.Find(x => x.NumerZmiany == nzm);
+
+                            
 
                             zmy.Add(dt, zm);                            
                         }
@@ -73,7 +95,6 @@ namespace CzasPracyPWeg.Classes
                     new Zmiana("X", new TimeSpan(0, 0, 0), new TimeSpan(0, 0, 0), false)
             };
 
-        //public CsvItemDataRow Headers { get; set; }
         public IEnumerable<CsvItemDataRow> Rows { get; set; }
 
 

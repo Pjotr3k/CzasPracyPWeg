@@ -2,13 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Net;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Serialization;
 using FluentFTP;
+using System.Threading;
 
 namespace CzasPracyPWeg
 {
@@ -16,6 +12,8 @@ namespace CzasPracyPWeg
     {
         static void Main(string[] args)
         {
+
+            Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en-US");
 
             CsvConverter conv = new CsvConverter();
 

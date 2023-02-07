@@ -12,13 +12,14 @@ namespace CzasPracyPWeg.Classes
         {
             Pracownik = idPracownik;
             Data = dzien.ToString("yyyy/MM/dd");
-            if (zm.czyPraca) Definicja = "Pracy";
-            else Definicja = "Wolny";
             if (zm.czyPraca)
             {
-                OdGodziny = zm.OdGodziny.ToString();
-                Czas = zm.Czas.ToString();
-            }
+                Definicja = "Pracy";
+                OdGodziny = zm.OdGodziny.ToString(@"hh\:mm");
+                Czas = zm.Czas.ToString(@"hh\:mm");
+            }            
+            else Definicja = "Wolny";
+
         }
 
         public List<DzienPlanu> GetDziens(List<PracaPracownika> PrpList)
@@ -40,7 +41,7 @@ namespace CzasPracyPWeg.Classes
 
         public int Pracownik { get; set; }
         public string Data { get; set; }
-        public string Definicja;
+        public string Definicja { get; set; }
         public String OdGodziny { get; set; }
         public String Czas { get; set; }
 

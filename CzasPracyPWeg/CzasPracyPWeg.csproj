@@ -53,7 +53,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\CsvConverter.cs" />
-    <Compile Include="Classes\CsvHeaderDataRow.cs" />
     <Compile Include="Classes\CsvItemDataRow.cs" />
     <Compile Include="Classes\DzienPlanu.cs" />
     <Compile Include="Classes\PracaPracownika.cs" />

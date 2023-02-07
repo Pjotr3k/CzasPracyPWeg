@@ -1,803 +1,803 @@
 <?xml version="1.0"?>
 <DniPlanu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.01</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/01</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.02</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/02</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.03</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/03</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.04</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/04</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.05</Data>
+    <Data>2020/10/05</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.06</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/06</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.07</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/07</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.08</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/08</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.09</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/09</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.10</Data>
+    <Data>2020/10/10</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.11</Data>
+    <Data>2020/10/11</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.12</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/12</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.13</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/13</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.14</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/14</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.15</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/15</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.16</Data>
+    <Data>2020/10/16</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.17</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/17</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.18</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/18</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.19</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/19</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.20</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/20</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.21</Data>
+    <Data>2020/10/21</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.22</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/22</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.23</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/23</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.24</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/24</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.25</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/25</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.26</Data>
+    <Data>2020/10/26</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.27</Data>
+    <Data>2020/10/27</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.28</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/28</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.29</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/29</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.30</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/30</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>242</Pracownik>
-    <Data>2020.10.31</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
-  </DzienPlanu>
-  <DzienPlanu>
+    <Data>2020/10/31</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.01</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/01</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
+  </DzienPlanu>
+  <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/02</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.02</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/03</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.03</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/04</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.04</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/05</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.05</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/06</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.06</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/07</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.07</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>248</Pracownik>
+    <Data>2020/10/08</Data>
     <Definicja>Wolny</Definicja>
+  </DzienPlanu>
+  <DzienPlanu>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.08</Data>
+    <Data>2020/10/09</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.09</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/10</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.10</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/11</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.11</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/12</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.12</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/13</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.13</Data>
+    <Data>2020/10/14</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.14</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/15</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.15</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/16</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.16</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/17</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.17</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/18</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.18</Data>
+    <Data>2020/10/19</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.19</Data>
+    <Data>2020/10/20</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.20</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/21</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.21</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/22</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.22</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/23</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.23</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/24</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.24</Data>
+    <Data>2020/10/25</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.25</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/26</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.26</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/27</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.27</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/28</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.28</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/29</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.29</Data>
+    <Data>2020/10/30</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>248</Pracownik>
-    <Data>2020.10.30</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
-  </DzienPlanu>
-  <DzienPlanu>
+    <Data>2020/10/31</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>248</Pracownik>
-    <Data>2020.10.31</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/01</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.01</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/02</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.02</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/03</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.03</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/04</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.04</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/05</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.05</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/06</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.06</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/07</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.07</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/08</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.08</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/09</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.09</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/10</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.10</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/11</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.11</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/12</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.12</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/13</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.13</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/14</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.14</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/15</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.15</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/16</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.16</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/17</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.17</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/18</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.18</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/19</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.19</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/20</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.20</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/21</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.21</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>251</Pracownik>
+    <Data>2020/10/22</Data>
     <Definicja>Wolny</Definicja>
+  </DzienPlanu>
+  <DzienPlanu>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.22</Data>
+    <Data>2020/10/23</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.23</Data>
+    <Data>2020/10/24</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.24</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/25</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.25</Data>
+    <Data>2020/10/26</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.26</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/27</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.27</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/28</Data>
+    <Definicja>Wolny</Definicja>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Wolny</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.28</Data>
+    <Data>2020/10/29</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.29</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/30</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>251</Pracownik>
-    <Data>2020.10.30</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/31</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
-    <Pracownik>251</Pracownik>
-    <Data>2020.10.31</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
-  </DzienPlanu>
-  <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>480</Pracownik>
-    <Data>2020.10.01</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/01</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/02</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.02</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/03</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.03</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/04</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.04</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/05</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.05</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/06</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.06</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/07</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.07</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/08</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.08</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/09</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.09</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/10</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.10</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/11</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.11</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/12</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.12</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/13</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.13</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/14</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.14</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/15</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.15</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/16</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.16</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/17</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.17</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/18</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.18</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/19</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.19</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/20</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.20</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/21</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.21</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/22</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.22</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/23</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.23</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/24</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.24</Data>
-    <OdGodziny>14:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>14:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/25</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.25</Data>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/26</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.26</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/27</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.27</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/28</Data>
     <Definicja>Pracy</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.28</Data>
-    <OdGodziny>06:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <OdGodziny>06:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
+    <Pracownik>480</Pracownik>
+    <Data>2020/10/29</Data>
     <Definicja>Wolny</Definicja>
-    <Pracownik>480</Pracownik>
-    <Data>2020.10.29</Data>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>480</Pracownik>
-    <Data>2020.10.30</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/30</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
   <DzienPlanu>
-    <Definicja>Pracy</Definicja>
     <Pracownik>480</Pracownik>
-    <Data>2020.10.31</Data>
-    <OdGodziny>22:00:00</OdGodziny>
-    <Czas>08:00:00</Czas>
+    <Data>2020/10/31</Data>
+    <Definicja>Pracy</Definicja>
+    <OdGodziny>22:00</OdGodziny>
+    <Czas>08:00</Czas>
   </DzienPlanu>
 </DniPlanu>
