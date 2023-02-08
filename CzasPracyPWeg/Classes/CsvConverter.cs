@@ -13,14 +13,14 @@ namespace CzasPracyPWeg.Classes
             Rows = csvContext.Read<CsvItemDataRow>(filePath, csvDesc);
             int initialRow = 1;
             int headerRow = 2;
-            int cr = initialRow;
+            int currentRow = initialRow;
 
             string[] header = new string[0];
                         
             foreach (CsvItemDataRow row in Rows)
             {
                 
-                if (cr == headerRow)
+                if (currentRow == headerRow)
                 {
                     int rLength = row.ToArray().Length;
                     header = new string[rLength];
@@ -32,12 +32,12 @@ namespace CzasPracyPWeg.Classes
 
                 }
 
-                if (cr > headerRow)
+                if (currentRow > headerRow)
                 {
                     PracaPracownika praca = GetPraca(header, row);
                     pr.Add(praca);                    
                 }
-                cr++;
+                currentRow++;
             }
             return pr;
         }
@@ -46,12 +46,9 @@ namespace CzasPracyPWeg.Classes
         {
             while (!Zmiany.Exists(x => x.NumerZmiany == nzm))
             {
-                Console.WriteLine();
-                Console.WriteLine($"Dla pracownika o kodzie {prp.KodPracownika} " +
-                    $"podany format zmiany {nzm} na dzień {dt} jest nieprawidłowy.");
-                Console.WriteLine();
-                Console.WriteLine("Podaj prawidłowy format zmiany");
-                Console.WriteLine();
+                Console.WriteLine($"\nDla pracownika o kodzie {prp.KodPracownika} \n" +
+                    $"podany format zmiany {nzm} na dzień {dt} jest nieprawidłowy.\n");
+                Console.WriteLine("Podaj prawidłowy format zmiany \n");
 
                 foreach (var z in Zmiany)
                 {
